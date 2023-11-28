@@ -1,0 +1,21 @@
+C:\Users\Ден\source\repos\лаба 3\лаба 3\bin\Debug\net6.0-windows\лаба 3.exe
+C:\Users\Ден\source\repos\лаба 3\лаба 3\bin\Debug\net6.0-windows\лаба 3.deps.json
+C:\Users\Ден\source\repos\лаба 3\лаба 3\bin\Debug\net6.0-windows\лаба 3.runtimeconfig.json
+C:\Users\Ден\source\repos\лаба 3\лаба 3\bin\Debug\net6.0-windows\лаба 3.dll
+C:\Users\Ден\source\repos\лаба 3\лаба 3\bin\Debug\net6.0-windows\лаба 3.pdb
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.csproj.AssemblyReference.cache
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3_MarkupCompile.cache
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3_MarkupCompile.lref
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.g.resources
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.AssemblyInfoInputs.cache
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.AssemblyInfo.cs
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.dll
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\refint\лаба 3.dll
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.pdb
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\лаба 3.genruntimeconfig.cache
+C:\Users\Ден\source\repos\лаба 3\лаба 3\obj\Debug\net6.0-windows\ref\лаба 3.dll
